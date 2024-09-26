@@ -17,3 +17,19 @@ h1{
     font-weight: bold;
     color: #272727;
 }
+
+.gray-f{
+   color: #E6E6E6;
+}
+
+.bg-bll{
+background-color: #272727;
+}
+
+.bg-grr{
+    background-color: #EBEBEB;
+}
+
+.bf-ora{
+    background-color: #B72F07;
+}
